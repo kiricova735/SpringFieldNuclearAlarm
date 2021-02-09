@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringFieldNuclearAlarm", "SpringFieldNuclearAlarm\SpringFieldNuclearAlarm.csproj", "{456D9BA6-20CB-4FEF-9313-49DC1C96AAA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{456D9BA6-20CB-4FEF-9313-49DC1C96AAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456D9BA6-20CB-4FEF-9313-49DC1C96AAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456D9BA6-20CB-4FEF-9313-49DC1C96AAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456D9BA6-20CB-4FEF-9313-49DC1C96AAA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92165884-9AF9-440D-9701-D992EB4EE20C}
+	EndGlobalSection
+EndGlobal
